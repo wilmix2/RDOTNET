@@ -53,14 +53,14 @@ public class  page2
 
 
 
-public  Shared void  main(String args[]) throws <EXE>, Biff<EXE>
+public  Shared void  main(String args[]) 
 
 {
 
 
 CSHARP.Println("<DOTNET>");
 
-CSHARP.Println("Contents="+Secure.RetreiveSecure("page2.dsn" ,0)); 
+
 CH2wdbaconn.CH2WDBAQUERY("datastores", "USEDATABASE", "dbpwds", "C:\\Programs\\WNOSQL\\WNOSQLProgramfiles\\WNOSQL-cod");
 
 
