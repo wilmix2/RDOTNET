@@ -6,6 +6,9 @@ RDOTNET
 
 RDOTNET  is   for   remote  web application   which  is  invented   in  year  2017 by  wilmix jemin j in  C#  and  GDollar P.L.
 
+RDOTNET   consists   of   RCSHARP  compiler  to   compile  csharp   programs and it  RCSHARP  compiler  is
+
+designed  in C#.
 
 
 ADVANTAGES
@@ -32,7 +35,7 @@ SYNTAX  for  webpage  and RDOTNET AJAX FORMAT:
 </CSHARP>
 
 
-
+Note:  This   is  designed   in Gdollar P.L
 
 Program  with  WNOSQL  using RDOTNET
 ====================================
@@ -92,7 +95,7 @@ CSHARP.Println("</DOTNET>");
 
 
 
-Write   a   RDOTNET using   CSHARP  
+Write   a   RDOTNET using   RCSHARP  
 
 =====================================
 
