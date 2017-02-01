@@ -229,7 +229,7 @@ and   setting  wilmixcatserver   params   to  the  path  where   DOTNETSERVER.ex
 Project  Period  :  JAN 2016   to Jan 2017
 
 
-note: remoteserver  invented  in GDollar P.L can take   up  to  a  week  and  rest  in  C#  P.L can take more  months to achieve.
+note: remoteserver  invented  in GDollar P.L can take   up  to  a  week  and  RDOTNET-CSHARP  in  C#  P.L can take more  months to achieve.
 
 Compiler design   can be easily  achieved in   GDollar  than  Dotnet  or  any  p.l.
 
