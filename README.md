@@ -229,13 +229,18 @@ and   setting  wilmixcatserver   params   to  the  path  where   DOTNETSERVER.ex
 Project  Period  :  JAN 2016   to Jan 2017
 
 
-note: remoteserver  invented  in GDollar P.L can take   up  to  a  week  and  RDOTNET-CSHARP  in  C#  P.L can take more  months to achieve.
+note: remoteserver  invented  in GDollar P.L can take   up  to  a  week  and  RDOTNET-CSHARP  in  C#  P.L can take more  months to achieve.  
 
 Compiler design   can be easily  achieved in   GDollar  than  Dotnet  or  any  p.l.
 
 
 Note:  It  also  accepts   Jquery  or  angularjs  mobile format.
 
+How   speed   JSLASH,JDOLLAR,JAS  is  compared  to  GDollar?
+
+JSLASH  can  create  a   compiler  with in  3 minutes.
+
+For  JDollar-JSLASH ,JAS  can  create a  remoteserver with in  4  hours than  GDollar.
 
 
 
