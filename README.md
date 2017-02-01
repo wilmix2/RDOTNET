@@ -231,6 +231,7 @@ Project  Period  :  JAN 2016   to Jan 2017
 
 note: remoteserver  invented  in GDollar P.L and  rest  in  C#  P.L
 
+Note:  It  also  accepts   Jquery  or  angularjs  mobile format.
 
 
 
