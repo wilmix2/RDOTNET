@@ -236,12 +236,6 @@ Compiler design   can be easily  achieved in   GDollar  than  Dotnet  or  any  p
 
 Note:  It  also  accepts   Jquery  or  angularjs  mobile format.
 
-How   speed   JSLASH,JDOLLAR,JAS  is  compared  to  GDollar?
-
-JSLASH  can  create  a   compiler  with in  3 minutes.
-
-For  JDollar-JSLASH ,JAS  can  create a  remoteserver with in  4  hours than  GDollar.
-
 
 
 
